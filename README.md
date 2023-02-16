@@ -1,6 +1,6 @@
 rm -rf KBM
 
-https://github.com/KhushalVala/KBM
+git clone https://github.com/KhushalVala/KBM
 
 cd KBM
 
